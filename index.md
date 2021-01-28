@@ -1,9 +1,12 @@
 
 
 ![i](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext375090719842647.png)
-___
 
-# Windows
+
+Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app-ocalypse.github.io/App-ocalypse/).
+---
+
+# Windows<img src="https://raw.githubusercontent.com/App-ocalypse/Appbox/gh-pages/win.png" width="40"/>
 ---
 ## SPARK Technosapiens
 <img src="https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/SPARK%20icon.jpg" alt="icon 1" width="50"/> 
@@ -17,8 +20,8 @@ ___
 
  ---
 ---
-# Mac OS
+# Mac OS<img src="https://github.com/App-ocalypse/Appbox/blob/gh-pages/MAc.png?raw=true" width="40"/>
 ---
 ---
-# Linux
+# Linux<img src="https://github.com/App-ocalypse/Appbox/blob/gh-pages/linux.png?raw=true" width="40"/>
 ---
