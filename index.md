@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/App-ocalypse/Appbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![i](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext375090719842647.png)
+___
 
-### Markdown
+# Windows
+---
+## SPARK Technosapiens
+<img src="https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/SPARK%20icon.jpg" alt="icon 1" width="50"/> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Offered by** : [SparkScratch_P](https://github.com/SparkScratch-P)  
+**Type** : Web View, Game, App
 
-```markdown
-Syntax highlighted code block
+ This is an app version of SparkScratch_P's official website and all contents on this server like **Exciting Browser-Games and Web-Apps** . U can be updated with my works from this app!
+ 
+  [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://doc-14-b4-docs.googleusercontent.com/docs/securesc/em974gdci7e49pp7n30e4q7l8jtjflt9/32mdfa15soopcrkhv433l1535knea0us/1611764100000/01539878000197523635/01539878000197523635/1TciFiOoneijTFMtjfBM7Nekzx1i9M5Gj?e=download&authuser=0&nonce=vl85nlc6khi8e&user=01539878000197523635&hash=tvcto4lrl4vrs6uk9loc17vj4nl5bva3 )
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/App-ocalypse/Appbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ ---
+---
+# Mac OS
+---
+---
+# Linux
+---
