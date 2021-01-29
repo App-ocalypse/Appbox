@@ -16,7 +16,7 @@ Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app
 
  This is an app version of SparkScratch_P's official website and all contents on this server like **Exciting Browser-Games and Web-Apps** . U can be updated with my works from this app!
  
-  [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://doc-14-b4-docs.googleusercontent.com/docs/securesc/em974gdci7e49pp7n30e4q7l8jtjflt9/32mdfa15soopcrkhv433l1535knea0us/1611764100000/01539878000197523635/01539878000197523635/1TciFiOoneijTFMtjfBM7Nekzx1i9M5Gj?e=download&authuser=0&nonce=vl85nlc6khi8e&user=01539878000197523635&hash=tvcto4lrl4vrs6uk9loc17vj4nl5bva3 )
+  [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://drive.google.com/file/d/1TciFiOoneijTFMtjfBM7Nekzx1i9M5Gj/view?usp=sharing)
 
  ---
 ---
