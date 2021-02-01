@@ -35,6 +35,8 @@ Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app
  This app is programmed to sensitively destroy all data in a CD, DVD or Bly-ray disc in a computer's G:/ Drive. Coded in Windows batch, Source code is available on [Github](https://github.com/SparkScratch-P/SPARK-CD-SHredder) .
  
   [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://raw.githubusercontent.com/SparkScratch-P/Disc-Shredder/main/SPARK%20CD%20Shredder.exe)
+  
+  ---
 ---
 # Mac OS<img src="https://github.com/App-ocalypse/Appbox/blob/gh-pages/MAc.png?raw=true" width="40"/>
 ---
