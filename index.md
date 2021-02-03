@@ -19,7 +19,7 @@ Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app
 
  This is an app version of SparkScratch_P's official website and all contents on this server like **Exciting Browser-Games and Web-Apps** . U can be updated with my works from this app!
  
-  [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://drive.google.com/file/d/1TciFiOoneijTFMtjfBM7Nekzx1i9M5Gj/view?usp=sharing)
+  [![download](https://github.com/App-ocalypse/App-ocalypse/blob/gh-pages/download_btn.png?raw=true)](https://drive.google.com/file/d/1TciFiOoneijTFMtjfBM7Nekzx1i9M5Gj/view?usp=sharing)
 
  ---
  
@@ -34,7 +34,7 @@ Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app
 
  This app is programmed to sensitively destroy all data in a CD, DVD or Bly-ray disc in a computer's G:/ Drive. Coded in Windows batch, Source code is available on [Github](https://github.com/SparkScratch-P/SPARK-CD-SHredder) .
  
-  [![download](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/download_btn.png)](https://raw.githubusercontent.com/SparkScratch-P/Disc-Shredder/main/SPARK%20CD%20Shredder.exe)
+  [![download](https://github.com/App-ocalypse/App-ocalypse/blob/gh-pages/download_btn.png?raw=true)](https://raw.githubusercontent.com/SparkScratch-P/Disc-Shredder/main/SPARK%20CD%20Shredder.exe)
   
   ---
 ---
