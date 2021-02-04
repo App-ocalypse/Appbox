@@ -2,9 +2,8 @@
 
 ![i](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext375090719842647.png)
 
+## Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app-ocalypse.github.io/App-ocalypse/).
 
-Here is the Collection of Apps for all OS offerred by [App-Ocalypse](https://app-ocalypse.github.io/App-ocalypse/).
----
 
 # Windows<img src="https://raw.githubusercontent.com/App-ocalypse/Appbox/gh-pages/win.png" width="40"/>
 ---
