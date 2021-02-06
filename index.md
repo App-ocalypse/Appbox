@@ -22,6 +22,21 @@
 
  ---
  
+ ## DPS JOKA
+<img src="https://dpsjoka.com/wp-content/uploads/2019/10/logo-y.png" alt="dpsjsk" width="50"/> 
+
+**Offered by** : [SparkScratch_P](https://github.com/SparkScratch-P) 
+
+ **Compatibility** : Win-32 x64
+ 
+**Type** : App, School Erp
+
+ The [DPS Joka](http://dpsjoka.com/) School Erp is available for Windows here. 
+ 
+  [![download](https://github.com/App-ocalypse/App-ocalypse/blob/gh-pages/download_btn.png?raw=true)](https://drive.google.com/file/d/1BL6RY25eG72Ys9mg9Q_PBcSvgTnUASnF/view?usp=sharing)
+
+---
+
 ## SPARK CD Shredder
 <img src="https://raw.githubusercontent.com/SparkScratch-P/Disc-Shredder/main/CD-Shredder.ico" alt="icon 2" width="50"/> 
 
