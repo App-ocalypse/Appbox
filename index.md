@@ -22,7 +22,7 @@
 
  ---
  
- ## DPS JOKA
+## DPS JOKA
 <img src="https://dpsjoka.com/wp-content/uploads/2019/10/logo-y.png" alt="dpsjsk" width="50"/> 
 
 **Offered by** : [SparkScratch_P](https://github.com/SparkScratch-P) 
